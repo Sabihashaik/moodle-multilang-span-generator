@@ -16,11 +16,11 @@ int main()
     getline (cin, text1);
     getline (cin, text2);
  
-    string start ="<span lang=\'"+lang1+"\'>";
+    string start ="<span lang=\""+lang1+"\" class=\"multilang\">";
     string end="</span>";
     string structure = start+text1+end;
     
-    string start2 ="<span lang=\'"+lang2+"\'>";
+    string start2 ="<span lang=\""+lang2+"\" class=\"multilang\">";
     string end2="</span>";
     string structure2 = start2+text2+end2;
     

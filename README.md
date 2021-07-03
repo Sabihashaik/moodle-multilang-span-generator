@@ -16,3 +16,14 @@ If you do not have experience running a C++ program before, the easiest way to r
 
 Once pasted, press run and type the inputs in the 'Execution' window displayed on screen. 
 
+Generated output example
+-------------------------
+```
+<span lang="en" class="multilang">This is an example</span><span lang="ar" class="multilang">هذا مثال</span>
+```
+
+Which is interpreted as:
+- In English lang: 
+    > This is an example 
+- In Arabic lang:
+    > ذا مثال
